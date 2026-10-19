@@ -1,0 +1,14 @@
+ఖచ్చితంగా, ఇదిగోండి HTML కోడ్. దీన్ని కాపీ చేసుకోండి.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shoot Elite</title>
+</head>
+<body>
+    <h1>Welcome to Shoot Elite</h1>
+    <p>Automotive photography showcasing stunning photoshoots of cars and bikes.</p>
+</body>
+</html>
+
